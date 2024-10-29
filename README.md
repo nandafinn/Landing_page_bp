@@ -1,8 +1,8 @@
-Landing Page
-Linguagens: PHP, JavaScript, SQL.
-Integrações: RD Station.
-Banco de dados: Postgres.
-Script:
+Landing Page  
+Linguagens: PHP, JavaScript, SQL.  
+Integrações: RD Station.  
+Banco de dados: Postgres.  
+Script:  
 CREATE TABLE lead (
     id integer NOT NULL,
     nome character varying(255) NOT NULL,
